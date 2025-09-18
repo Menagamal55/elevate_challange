@@ -30,4 +30,4 @@ The app fetches products from [DummyJSON API](https://dummyjson.com/products) an
 ### 🏠 Products List
 ![Products](screenshots/products_list.png)
 
-(screenshots/favorites.png)
+![Products](screenshots/favorites.png)
