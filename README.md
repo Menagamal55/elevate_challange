@@ -1,16 +1,29 @@
-# elevate_challenge
+# 🛍️ E-commerce Flutter Task
 
-A new Flutter project.
+## 📌 Description
+This is a simple E-commerce Flutter app built as part of the Elevate Flutter Advanced Bootcamp challenge.  
+The app fetches products from [DummyJSON API](https://dummyjson.com/products) and displays them in a clean, modern UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📦 Product listing with image, name, description, price, and rating  
+- ❤️ Favorite button on each product card  
+- 🎨 Clean and responsive UI design  
+- 🌐 API integration using Dio  
+- 🔄 State management using Cubit and Equatable  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter  
+- Dio  
+- Cubit (Bloc)  
+- Equatable  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Screenshots
+### 🏠 Products List
+![Products](E:\flutter\elevate_challenge\screen shoots\لقطة شاشة 2025-09-19 022705.png)
+(E:\flutter\elevate_challenge\screen shoots\لقطة شاشة 2025-09-19 022705.png)
