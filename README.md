@@ -25,5 +25,5 @@ The app fetches products from [DummyJSON API](https://dummyjson.com/products) an
 
 ## 📷 Screenshots
 ### 🏠 Products List
-![Products](E:\flutter\elevate_challenge\screen shoots\لقطة شاشة 2025-09-19 022705.png)
-(E:\flutter\elevate_challenge\screen shoots\لقطة شاشة 2025-09-19 022705.png)
+![Products](E:\flutter\elevate_challenge\screenshots\.png)
+(E:\flutter\elevate_challenge\screenshots\list.png)
